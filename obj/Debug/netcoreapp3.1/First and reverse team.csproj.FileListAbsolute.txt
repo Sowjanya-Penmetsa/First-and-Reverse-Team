@@ -1,0 +1,13 @@
+C:\Users\Anvesh Penmetsa\source\repos\First and reverse team\bin\Debug\netcoreapp3.1\First and reverse team.exe
+C:\Users\Anvesh Penmetsa\source\repos\First and reverse team\bin\Debug\netcoreapp3.1\First and reverse team.deps.json
+C:\Users\Anvesh Penmetsa\source\repos\First and reverse team\bin\Debug\netcoreapp3.1\First and reverse team.runtimeconfig.json
+C:\Users\Anvesh Penmetsa\source\repos\First and reverse team\bin\Debug\netcoreapp3.1\First and reverse team.runtimeconfig.dev.json
+C:\Users\Anvesh Penmetsa\source\repos\First and reverse team\bin\Debug\netcoreapp3.1\First and reverse team.dll
+C:\Users\Anvesh Penmetsa\source\repos\First and reverse team\bin\Debug\netcoreapp3.1\First and reverse team.pdb
+C:\Users\Anvesh Penmetsa\source\repos\First and reverse team\obj\Debug\netcoreapp3.1\First and reverse team.csprojAssemblyReference.cache
+C:\Users\Anvesh Penmetsa\source\repos\First and reverse team\obj\Debug\netcoreapp3.1\First and reverse team.csproj.CoreCompileInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\First and reverse team\obj\Debug\netcoreapp3.1\First and reverse team.AssemblyInfoInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\First and reverse team\obj\Debug\netcoreapp3.1\First and reverse team.AssemblyInfo.cs
+C:\Users\Anvesh Penmetsa\source\repos\First and reverse team\obj\Debug\netcoreapp3.1\First and reverse team.dll
+C:\Users\Anvesh Penmetsa\source\repos\First and reverse team\obj\Debug\netcoreapp3.1\First and reverse team.pdb
+C:\Users\Anvesh Penmetsa\source\repos\First and reverse team\obj\Debug\netcoreapp3.1\First and reverse team.genruntimeconfig.cache
